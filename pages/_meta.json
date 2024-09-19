@@ -1,15 +1,18 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Home",
+  "introduction": "Introduction to Options",
+  "covered-calls": "Our Platform: Covered Calls",
+  "how-to-use": "How to Use Our Platform",
+  "for-sellers": "For Sellers",
+  "for-buyers": "For Buyers",
+  "key-features": "Key Features",
+  "things-to-remember": "Things to Remember",
+  "support": "Need Help?",
+  "faq": "FAQ",
   "contact": {
-    "title": "Contact ↗",
+    "title": "App ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://app.solarium.finance",
     "newWindow": true
   }
 }
