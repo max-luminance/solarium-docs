@@ -30,9 +30,9 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/solarium-dev/solarium-options",
   },
-  // chat: {
-  //   link: "https://discord.com",
-  // },
+  chat: {
+    link: "https://discord.gg/t5jTyGsj",
+  },
   docsRepositoryBase: "https://github.com/solarium-dev/solarium-docs",
   footer: {
     text: "Solarium Finance Documentation",
